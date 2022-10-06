@@ -4,7 +4,7 @@ import pymongo.database
 from pymongo import MongoClient
 
 
-cluster = MongoClient("mongodb+srv://e:pass@cluster0.mbu1f.mongodb.net/Zomboid")
+cluster = MongoClient()
 
 
 # Database, Collections
