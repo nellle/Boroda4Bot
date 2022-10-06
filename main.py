@@ -64,4 +64,4 @@ async def profile(ctx: commands.Context, member: disnake.Member = None):
     await ctx.send(embed=em)
 
 
-client.run("MTAyNzI2Nzk2MjczNTk1MTk1Mw.G4uZNR.S9jhMIsIhKJBVzy_TSPysTAMPhcAZM3guOZDXg")
+client.run()
